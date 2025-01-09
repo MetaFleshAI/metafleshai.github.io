@@ -99,8 +99,105 @@ f_u = n \cdot f_s
 ---
 
 ## **🎨 Visualization**
+## System Flow for Consciousness-Integrated Scalar Wave Device
 
-![System Flow](https://via.placeholder.com/800x400.png?text=System+Architecture+Flow)
+This section outlines the complete system flow, including all parts, sub-parts, and assemblies for the scalar wave system. The architecture incorporates biosensors, consciousness input fields, and scalar wave harmonization modules.
+
+---
+
+### **System Overview**
+
+The device functions by:
+1. Receiving inputs from biosensors and consciousness fields.
+2. Processing data through the central processing unit (CPU) and scalar wave generators.
+3. Outputting harmonized scalar waves for user synchronization and resonance.
+
+---
+
+### **Flowchart**
+
+```mermaid
+graph TD
+A[User Interaction] -->|Consciousness Input| B(Biosensor Array)
+B --> C{Input Processing Unit}
+C --> D[Scalar Wave Generator]
+D --> E{Output Module}
+E -->|Scalar Wave Emission| F[Resonance with User]
+```
+
+---
+
+### **Detailed Components**
+
+#### **1. User Interaction Layer**
+   - **Consciousness Input Fields**: 
+     - EEG (Electroencephalogram) sensors for brainwave patterns.
+     - EDA (Electrodermal Activity) sensors for emotional and energetic states.
+     - Thoughtform Recognition: Utilizes machine learning to map user intention into scalar signals.
+
+#### **2. Biosensor Array**
+   - **Sub-Components**:
+     - Heart Rate Variability (HRV) Sensor: Tracks autonomic nervous system activity.
+     - Skin Conductance Sensors: Monitors stress levels.
+     - Eye Tracking Module: Detects focus and intention alignment.
+
+#### **3. Input Processing Unit**
+   - **Sub-Parts**:
+     - Signal Amplifiers: Enhance low-power input signals.
+     - Filtering Algorithms: Remove noise from biosensor data.
+     - AI Integration Layer: Translates consciousness input into actionable parameters.
+
+#### **4. Scalar Wave Generator**
+   - **Assemblies**:
+     - Dual Bifilar Tesla Coil Assembly: Generates the scalar wave field.
+     - Frequency Modulator: Adjusts wave output for resonance.
+     - Harmonic Stabilizer: Prevents frequency drift.
+
+#### **5. Output Module**
+   - **Sub-Components**:
+     - Multi-Wave Oscillator (MWO): Produces complex scalar waveforms.
+     - Light Patterns: Visual feedback for synchronization.
+     - Audio Feedback: Solfeggio frequencies or user-defined tones.
+
+#### **6. Resonance and Feedback**
+   - **Integration Points**:
+     - Resonance Optimization: Ensures biofield coherence.
+     - Adaptive Feedback Loop: Dynamically adjusts scalar wave output based on user response.
+
+---
+
+### **Data Flow**
+
+1. **Input**: Data from biosensors and consciousness fields.
+2. **Processing**:
+   - Amplification and noise reduction.
+   - Translation of bio-data into scalar wave parameters.
+3. **Output**: Emission of harmonized scalar waves.
+4. **Feedback Loop**: Real-time adjustment based on biosensor readings.
+
+---
+
+### **Assembly Breakdown**
+
+#### **Hardware**
+   - EEG, EDA, HRV sensors.
+   - Scalar wave generator with bifilar Tesla coils.
+   - Multi-wave oscillator and harmonic stabilizer.
+
+#### **Software**
+   - AI-driven intention mapping algorithms.
+   - Feedback loop controller.
+   - Signal processing and harmonization scripts.
+
+---
+
+### **Integration with Consciousness**
+
+The system bridges physical biosensors with non-physical consciousness fields by:
+- Mapping thoughtforms into scalar wave harmonics.
+- Aligning biofeedback with higher-dimensional resonances.
+- Creating a symbiotic interface between user and device.
+
 
 ---
 
