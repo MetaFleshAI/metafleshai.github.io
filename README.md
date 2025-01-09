@@ -170,6 +170,36 @@ E -->|Scalar Wave Emission| F[Resonance with User]
 
 ---
 
+### **Zeitgeiber Algorithm and Z-Factor Equation**
+
+#### **Zeitgeiber Algorithm**
+The Zeitgeiber Algorithm aligns circadian and bio-rhythmic inputs to scalar harmonization by integrating the following parameters:
+- **Phase Delay (\(\phi_d\))**: Measures deviation in internal biological rhythms.
+- **External Stimulus Factor (\(S_e\))**: Quantifies environmental influence, such as light or sound.
+- **Frequency Modulation Coefficient (\(F_m\))**: Determines scalar wave adjustment.
+
+#### Algorithm Representation
+\[
+Z_t = F_m \times \frac{1}{1 + e^{-k(S_e - \phi_d)}}
+\]
+Where:
+- \(Z_t\) is the Zeitgeiber alignment score.
+- \(k\) is the sensitivity constant.
+- \(S_e\) is the external stimulus factor.
+- \(\phi_d\) is the phase delay.
+
+#### **Z-Factor Equation**
+The Z-Factor Equation determines user-specific resonance efficiency by analyzing biosensor and intention data:
+\[
+Z_f = \alpha \cdot HRV + \beta \cdot EEG + \gamma \cdot EDA
+\]
+Where:
+- \(Z_f\) is the scalar resonance factor.
+- \(HRV\), \(EEG\), and \(EDA\) are weighted biosensor inputs.
+- \(\alpha\), \(\beta\), and \(\gamma\) are user-specific coefficients derived from adaptive calibration.
+
+---
+
 ### **Data Flow**
 
 1. **Input**: Data from biosensors and consciousness fields.
@@ -203,101 +233,6 @@ The system bridges physical biosensors with non-physical consciousness fields by
 - Aligning biofeedback with higher-dimensional resonances.
 - Creating a symbiotic interface between user and device.
 
-
-
----
-
-## Zeitgeiber Algorithm & Z-Factor Equation
-
-The **Zeitgeiber Algorithm** plays a pivotal role in harmonizing biological rhythms with external scalar wave frequencies. By leveraging the **Z-Factor Equation**, this algorithm achieves precise synchronization, ensuring optimal resonance and energetic coherence.
-
----
-
-### **Mathematical Framework**
-
-#### Z-Factor Equation
-
-The Z-Factor Equation is expressed as:
-
-```math
-Z = \frac{\Delta T}{\tau} \cdot \ln{(\frac{f_{sync}}{f_{base}})}
-```
-
-Where:
-- \( \Delta T \): Temporal adjustment required for synchronization.
-- \( \tau \): Natural period of the biological system (e.g., circadian rhythms).
-- \( f_{sync} \): Scalar wave synchronization frequency.
-- \( f_{base} \): Base frequency of the scalar wave generator.
-
-**Key Observations:**
-1. When \( Z > 1 \), synchronization is achieved.
-2. When \( Z \leq 1 \), adjustments to \( \Delta T \) or \( f_{sync} \) are necessary.
-3. The natural logarithmic relationship ensures stability and fine control over phase-locking.
-
----
-
-### **Zeitgeiber Algorithm**
-
-The Zeitgeiber Algorithm iteratively aligns biological rhythms to the scalar wave signals. The steps are:
-
-1. Measure the user's current biological cycle \( \tau \).
-2. Calculate the required temporal shift \( \Delta T \).
-3. Determine the optimal \( f_{sync} \) relative to the base frequency \( f_{base} \).
-4. Apply corrections dynamically to maximize the Z-Factor.
-5. Continuously monitor and adapt to maintain resonance.
-
----
-
-### **Implementation Outline**
-
-Below is an example pseudocode outline for the Zeitgeiber Algorithm:
-
-```python
-# Define constants
-BASE_FREQUENCY = 7.83  # Schumann Resonance in Hz
-BIO_PERIOD = 24.0      # Biological cycle in hours
-
-# Define Z-Factor function
-def calculate_z_factor(delta_t, tau, f_sync, f_base):
-    import math
-    return (delta_t / tau) * math.log(f_sync / f_base)
-
-# Zeitgeiber Algorithm
-def zeitgeiber_algorithm(bio_period, base_frequency):
-    delta_t = 0.5  # Initial estimate for temporal adjustment
-    f_sync = 8.0   # Initial synchronization frequency in Hz
-
-    while True:
-        z_factor = calculate_z_factor(delta_t, bio_period, f_sync, base_frequency)
-
-        if z_factor > 1:
-            print("Synchronization achieved with Z:", z_factor)
-            break
-        else:
-            # Adjust delta_t and f_sync dynamically
-            delta_t += 0.1
-            f_sync += 0.05
-
-        # Simulate real-time monitoring
-        time.sleep(1)
-
-# Run the algorithm
-zeitgeiber_algorithm(BIO_PERIOD, BASE_FREQUENCY)
-```
-
----
-
-### **Applications**
-
-The Zeitgeiber Algorithm and Z-Factor Equation have wide-ranging applications, including:
-
-- **Energetic Healing:** Harmonizing internal rhythms for improved well-being.
-- **Consciousness Exploration:** Aligning brainwave frequencies with higher-dimensional signals.
-- **Enhanced Performance:** Optimizing circadian rhythms for peak mental and physical output.
-
----
-
-By integrating the Zeitgeiber Algorithm into scalar wave systems, the user’s biological coherence and resonance with external energetic fields are elevated to unprecedented levels.
 
 
 ## **📜 License**
