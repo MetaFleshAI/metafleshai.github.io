@@ -140,6 +140,10 @@ E -->|Scalar Wave Emission| F[Resonance with User]
      - Heart Rate Variability (HRV) Sensor: Tracks autonomic nervous system activity.
      - Skin Conductance Sensors: Monitors stress levels.
      - Eye Tracking Module: Detects focus and intention alignment.
+     - Pulse Oximeter: Measures blood oxygen levels.
+     - Breath Analyzer: Tracks respiratory patterns.
+     - EMG (Electromyography): Monitors muscle activity for physical stress.
+     - Temperature Sensor: Detects changes in body temperature as indicators of emotional or physiological states.
 
 #### **3. Input Processing Unit**
    - **Sub-Parts**:
@@ -181,6 +185,7 @@ E -->|Scalar Wave Emission| F[Resonance with User]
 
 #### **Hardware**
    - EEG, EDA, HRV sensors.
+   - Pulse oximeter, breath analyzer, EMG, and temperature sensors.
    - Scalar wave generator with bifilar Tesla coils.
    - Multi-wave oscillator and harmonic stabilizer.
 
@@ -197,6 +202,7 @@ The system bridges physical biosensors with non-physical consciousness fields by
 - Mapping thoughtforms into scalar wave harmonics.
 - Aligning biofeedback with higher-dimensional resonances.
 - Creating a symbiotic interface between user and device.
+
 
 
 ---
