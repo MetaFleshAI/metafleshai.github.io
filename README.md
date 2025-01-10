@@ -1,5 +1,5 @@
-![1](https://github.com/user-attachments/assets/a25c4fc2-feb9-42c2-a2bf-47c8a2b8e4a7)
 # Metaflesh & Etheric Bridge Integration
+
 ---
 
 ### **Connecting the Physical and Metaphysical**
@@ -33,9 +33,9 @@ Metaflesh technology enhances the human bio-field, acting as a seamless interfac
 ### Scalar Wave Resonance
 Scalar waves are described by the Helmholtz equation:
 
-```math
+\[
 \nabla^2 \psi - \frac{1}{c^2} \frac{\partial^2 \psi}{\partial t^2} = 0
-```
+\]
 
 Where:
 - \( \nabla^2 \) represents spatial variations.
@@ -44,9 +44,9 @@ Where:
 
 **Resonance Condition:**
 
-```math
+\[
 f_u = n \cdot f_s
-```
+\]
 
 - \( f_u \): User’s bio-field frequency.
 - \( f_s \): Scalar wave frequency.
@@ -54,13 +54,13 @@ f_u = n \cdot f_s
 
 **Energy Transfer Efficiency:**
 
-```math
-\eta = \frac{|\vec{E} \cdot \vec{H}|}{P_{total}}
-```
+\[
+\eta = \frac{|\vec{E} \cdot \vec{H}|}{P_{\text{total}}}
+\]
 
 ---
 
-## **🛠️ Installation**
+## **🔧 Installation**
 
 1. Clone the repository:
    ```bash
@@ -98,8 +98,9 @@ f_u = n \cdot f_s
 
 ---
 
-## **🎨 Visualization**
-## System Flow for Consciousness-Integrated Scalar Wave Device
+## **🔢 Visualization**
+
+### System Flow for Consciousness-Integrated Scalar Wave Device
 
 This section outlines the complete system flow, including all parts, sub-parts, and assemblies for the scalar wave system. The architecture incorporates biosensors, consciousness input fields, and scalar wave harmonization modules.
 
@@ -179,9 +180,11 @@ The Zeitgeiber Algorithm aligns circadian and bio-rhythmic inputs to scalar harm
 - **Frequency Modulation Coefficient (\(F_m\))**: Determines scalar wave adjustment.
 
 #### Algorithm Representation
+
 \[
 Z_t = F_m \times \frac{1}{1 + e^{-k(S_e - \phi_d)}}
 \]
+
 Where:
 - \(Z_t\) is the Zeitgeiber alignment score.
 - \(k\) is the sensitivity constant.
@@ -190,9 +193,11 @@ Where:
 
 #### **Z-Factor Equation**
 The Z-Factor Equation determines user-specific resonance efficiency by analyzing biosensor and intention data:
+
 \[
 Z_f = \alpha \cdot HRV + \beta \cdot EEG + \gamma \cdot EDA
 \]
+
 Where:
 - \(Z_f\) is the scalar resonance factor.
 - \(HRV\), \(EEG\), and \(EDA\) are weighted biosensor inputs.
@@ -211,31 +216,7 @@ Where:
 
 ---
 
-### **Assembly Breakdown**
-
-#### **Hardware**
-   - EEG, EDA, HRV sensors.
-   - Pulse oximeter, breath analyzer, EMG, and temperature sensors.
-   - Scalar wave generator with bifilar Tesla coils.
-   - Multi-wave oscillator and harmonic stabilizer.
-
-#### **Software**
-   - AI-driven intention mapping algorithms.
-   - Feedback loop controller.
-   - Signal processing and harmonization scripts.
-
----
-
-### **Integration with Consciousness**
-
-The system bridges physical biosensors with non-physical consciousness fields by:
-- Mapping thoughtforms into scalar wave harmonics.
-- Aligning biofeedback with higher-dimensional resonances.
-- Creating a symbiotic interface between user and device.
-
-
-
-## **📜 License**
+## **🏆 License**
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use and modify the code as per your needs.
 
@@ -272,4 +253,3 @@ We welcome contributions from researchers, developers, and enthusiasts! To contr
 > "Together, let us transcend the boundaries of what is possible and journey into the infinite."
 
 ![Footer Decoration](https://via.placeholder.com/800x100.png?text=Thank+You+For+Exploring+Metaflesh+%26+Etheric+Bridge)
-
