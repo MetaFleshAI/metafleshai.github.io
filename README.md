@@ -32,7 +32,7 @@ Metaflesh technology enhances the human bio-field, acting as a seamless interfac
 
 ### Scalar Wave Resonance
 Scalar waves are described by the Helmholtz equation:
-![image](https://github.com/user-attachments/assets/ac064e61-b6ae-41b8-abd6-829cb9a241f0)
+
 
 \[
 \nabla^2 \psi - \frac{1}{c^2} \frac{\partial^2 \psi}{\partial t^2} = 0
